@@ -19,5 +19,7 @@
 	<h4>리버스 커밋 - 특정 시 커밋된 내용만 삭제, 이후 변경된 상태는 유지</h4>
 	<h5>불필요한 설명 다시 추가</h5>
 </body>
-<script></script>
+<script>
+var obj={};
+</script>
 </html>
